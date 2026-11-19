@@ -1,0 +1,6 @@
+{
+  "name": "Route to Done",
+  "description": "Deadline-based exam preparation planning engine with zero-fabrication syllabus auditing, 6-stage backward scheduling, capacity gap analysis, and a concise lock-screen summary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
